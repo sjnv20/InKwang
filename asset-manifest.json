@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/InKwang/static/css/main.882fd805.css",
-    "main.js": "/InKwang/static/js/main.4d8b9883.js",
+    "main.js": "/InKwang/static/js/main.f0f9f0ff.js",
     "static/media/pm2.jpeg": "/InKwang/static/media/pm2.4e4f6038e1d2139723e5.jpeg",
     "static/media/inkwang_door.jpeg": "/InKwang/static/media/inkwang_door.522133a8cae5a0eec194.jpeg",
     "static/media/pm3.jpeg": "/InKwang/static/media/pm3.c81304fd423798603248.jpeg",
@@ -41,10 +41,10 @@
     "static/media/logo_f.png": "/InKwang/static/media/logo_f.0c2c2bdefc5eb97108d9.png",
     "index.html": "/InKwang/index.html",
     "main.882fd805.css.map": "/InKwang/static/css/main.882fd805.css.map",
-    "main.4d8b9883.js.map": "/InKwang/static/js/main.4d8b9883.js.map"
+    "main.f0f9f0ff.js.map": "/InKwang/static/js/main.f0f9f0ff.js.map"
   },
   "entrypoints": [
     "static/css/main.882fd805.css",
-    "static/js/main.4d8b9883.js"
+    "static/js/main.f0f9f0ff.js"
   ]
 }
